@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "./static/css/main.924383e6.chunk.css",
+    "main.js": "./static/js/main.195f1dcd.chunk.js",
+    "main.js.map": "./static/js/main.195f1dcd.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.2df32a24.js",
+    "runtime-main.js.map": "./static/js/runtime-main.2df32a24.js.map",
+    "static/js/2.f26efd2f.chunk.js": "./static/js/2.f26efd2f.chunk.js",
+    "static/js/2.f26efd2f.chunk.js.map": "./static/js/2.f26efd2f.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.5406713d0492e40dff0039e00c9feaab.js": "./precache-manifest.5406713d0492e40dff0039e00c9feaab.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.924383e6.chunk.css.map": "./static/css/main.924383e6.chunk.css.map",
+    "static/js/2.f26efd2f.chunk.js.LICENSE.txt": "./static/js/2.f26efd2f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/bg1.e0ec0bf1.jpg",
+    "static/media/musicCatalystLogo.png": "./static/media/musicCatalystLogo.fe7ee603.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2df32a24.js",
+    "static/js/2.f26efd2f.chunk.js",
+    "static/css/main.924383e6.chunk.css",
+    "static/js/main.195f1dcd.chunk.js"
+  ]
+}
