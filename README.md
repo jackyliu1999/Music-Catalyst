@@ -21,3 +21,6 @@ npm install mysql --save
 
 ## Video Demo
 
+A video has been created to demonstrate the functionality of Music Catalyst.
+
+[Click here to view demo.](https://www.youtube.com/watch?v=zCJFEet8Yac)
