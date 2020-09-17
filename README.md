@@ -1,8 +1,8 @@
 # Music Catalyst
 
-## Login Server
+## What it does and how it works
 
-Music Catalyst's server is hosted locally with Apache and MySQL. 
+Allows users to register and save songs to their Music Catalyst account. Music Catalyst provides a user friendly login and registration frontend, developed in React. The backend was developed in JavaScript and databases storing user information are managed via MySQL. The server is hosted locally using Apache. Passwords are encrypted using bcrypt to ensure the safety of users. Saved song are able to have a title, YouTube embedded video link and lyrics. Music Catalyst is aimed at music enthusiasts who desire a platform to quickly save and clear playlists. With lyrics, users are able to sing along should they choose to or are able to use the app for social events such as karaoke. 
 
 **Requirements:**
 
